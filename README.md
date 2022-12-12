@@ -1,5 +1,11 @@
-### Hi there 👋
+console.log('Hello World!! 👋')
 
-¡Como persona organizada y con una gran motivación, soy capaz de adaptarme a cualquier circunstancia y dar siempre lo mejor de mí en cualquier proyecto, al mismo tiempo que me esfuerzo por trabajar en equipo y fomentar valores como los del compañerismo.!
+Software engineer at Microsoft and creator of Vida MRR, a personal project dedicated to help other developers to increase their technical skills in web design, web development, problems solving, and more. My main programming languages/platforms are: Javascript, Typescript, Node.js, Azure, PHP and Kotlin.
 
-Estoy disponible para trabajar en tu proyecto o realizar tu tarea pendiente, no dudes en ponerte en contacto conmigo.
+You can follow me in the next sites/platforms where I constantly publish new content 😊
+
+    📺 Vida MRR Youtube channel
+    📝 Vida MRR blog but working in a new release in beta
+    👍 Facebook, 🐦Twitter, 📷Instagram and 🎵Tiktok
+    💼 My personal Linkedin
+
