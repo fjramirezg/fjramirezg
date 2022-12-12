@@ -71,6 +71,8 @@
 ## Connect with me  
 <div align="center">
 <a href="https:/github.com/fjramirezg" target="_blank">
+<img src="
+https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbf151fa4565d48572dc_GitHub_aprender-programaci%25C3%25B3n.jpeg" style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 
 </a>
 <a href="https:www.linkedin.com/in/ing-fjramirez/" target="_blank">
