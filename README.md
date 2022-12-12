@@ -1,19 +1,16 @@
-
-
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
+<img src="https://ximhai.com/img/programando.gif" align="center" style="width: 100%" />
 </div>  
-
-### <div align="center">Hi, I'm Frank Ramirez 😎                                         Eng. Telecommunications & Full-stack developer 🚀</div>  
   
 
+### <div align="center">Hi, I'm Frank Ramirez 😎                                          Eng. Telecommunications & Full-stack developer 🚀</div>  
+  
 
 - 🔭passionate about software developer and create solutions for the big problems  
   
 
 - ❓ you need help to work on your project or carry out your pending task, don't hesitate to contact me.  
   
-
 
 <br/>  
 
