@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ximhai.com/img/programando.gif" align="center" style="width: 100%" />
+<img src="https://soyhorizonte.com/wp-content/uploads/2020/10/JS-by-SoyHorizonte.gif" align="center" style="width: 100%" />
 </div>  
   
 
