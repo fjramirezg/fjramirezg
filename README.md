@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi, I'm Frank Ramirez 😎                                          Eng. Telecommunications & Full-stack developer 🚀</div>  
+### <div align="center">Hi, I'm Frank Ramirez 😎                                          Eng. Telecommunications & Data Scientist🚀 </div>  
   
 
 - 🔭passionate about software developer and create solutions for the big problems  
